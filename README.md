@@ -1,6 +1,6 @@
 Notes and code from: 
 
-![Life Sciences](harvardx_data_analysis.png)
+![Life Sciences](/media/harvardx_data_analysis.png)
 
 ### Courses in this program:
 - PH525.1x - Statistics and R
@@ -12,7 +12,7 @@ Notes and code from:
 - PH525.4x - High-Dimensional Data Analysis
     > A focus on several techniques that are widely used in the analysis of high-dimensional data.
 
-![Genomics](harvardx_genomics.png)
+![Genomics](/media/harvardx_genomics.png)
 
 ### Courses in this program:
 - PH525.5x - Introduction to Bioconductor
