@@ -1,6 +1,7 @@
 Notes and code from: 
 
-# Harvardx - Professional Certificate in Data Analysis for Life Sciences
+![Life Sciences](harvardx_data_analysis.png)
+
 ### Courses in this program:
 - PH525.1x - Statistics and R
     > An introduction to basic statistical concepts and R programming skills necessary for analyzing data in the life sciences.
@@ -11,7 +12,8 @@ Notes and code from:
 - PH525.4x - High-Dimensional Data Analysis
     > A focus on several techniques that are widely used in the analysis of high-dimensional data.
 
-# Harvardx - Professional Certificate in Data Analysis for Genomics
+![Genomics](harvardx_genomics.png)
+
 ### Courses in this program:
 - PH525.5x - Introduction to Bioconductor
     > The structure, annotation, normalization, and interpretation of genome scale assays.
